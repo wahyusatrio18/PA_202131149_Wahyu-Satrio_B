@@ -3,7 +3,14 @@
 
 UAS Pengolahan citra kali ini saya membuat sebuat program untuk mendeteksi contour atau garis tepi pada sebuh objek 
 
-# UAS Pengloahan Citra
+# Berikut adalah langkah-langkah penyelesaian kodingan tersebut:
+1. Import library yang diperlukan:
+import cv2
+import numpy as np
+import matplotlib.pyplot as plt
+from skimage import measure
+
+
 
 Code tersebut adalah implementasi dari sebuah program untuk mendeteksi bentuk-bentuk dasar dalam sebuah gambar menggunakan library OpenCV dan scikit-image. Berikut adalah penjelasan mengenai setiap bagian dari code tersebut:
 
