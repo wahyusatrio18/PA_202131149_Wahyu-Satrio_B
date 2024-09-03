@@ -69,5 +69,3 @@ Peningkatan potensial meliputi:
     Membuat GUI untuk interaksi yang lebih mudah dengan alat pendeteksi bentuk.
 
 
-
-Translated with DeepL.com (free version)
