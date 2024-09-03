@@ -1,4 +1,4 @@
-dentification of shapes in images using OpenCV and Scikit-Image
+Identification of shapes in images using OpenCV and Scikit-Image
 
 Proyek ini memperlihatkan suatu teknik untuk menemukan dan mengklasifikasi objek-objek geometris seperti lingkaran, segitiga, kotak, persegi panjang, dan bentuk poligon lainnya dari gambar melalui pustaka OpenCV dan Scikit-Image yang telah diberikan dalam bahasa pemrograman Python. Notebook ini berfungsi untuk membaca gambar input, mendeteksi kontur yang ada, dan mengklasifikasi kontur tersebut berdasarkan jumlah sudut yang ditemukan.
 Gambaran Umum Proyek
